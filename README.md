@@ -1,0 +1,1 @@
+Ignorar la segona carpeta
